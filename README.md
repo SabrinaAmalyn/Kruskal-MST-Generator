@@ -15,9 +15,12 @@ Features
 
 How to Use
 -
+
 1. Prepare input files with vertex info and adjacency matrix using the "generate_kruskal_inputs.py" script.
 ![image](https://github.com/user-attachments/assets/9861d88d-8f4a-406b-b9dd-028d57b8a690)
+
 2. Compile the code in "group129_num03_kruskalwithoutpq_am_all_outputs.cpp".
+   
 3. Output files will show:
 - List of MST edges
 - Total weight of the MST
